@@ -1,7 +1,9 @@
 function App() {
   return (
     <>
-      <h1 className="text-body">HomePage</h1>
+      <main className="w-full bg-neutral-950 m-auto">
+
+      </main>
     </>
   )
 }
