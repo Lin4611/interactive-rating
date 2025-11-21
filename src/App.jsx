@@ -4,7 +4,7 @@ import RatingCard from "./components/RatingCard"
 function App() {
   return (
     <>
-      <main className="w-full bg-cover bg-black flex justify-center items-center py-100">
+      <main className="w-full h-full bg-cover bg-black flex justify-center items-center py-75">
           <RatingCard />
       </main>
     </>
