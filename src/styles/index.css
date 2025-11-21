@@ -1,4 +1,6 @@
 @import "tailwindcss";
+@import "./common/_colors.css";
+@import "./common/_fonts.css";
 body{
     font-family: var(--font-overpass);
     font-size: var(--text-body);
