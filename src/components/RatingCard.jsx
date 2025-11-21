@@ -8,7 +8,7 @@ const RatingCard = () => {
   const nums = [1, 2, 3, 4, 5];
   return (
     <>
-      <section className="max-w-[400px] w-full bg-neutral-grey-950 rounded-3xl py-10 px-4 flex justify-center items-center">
+      <section className="max-w-[400px] w-full bg-neutral-grey-950 rounded-3xl py-10 px-4 flex justify-center items-center shadow shadow-neutral-grey-500">
         <div
           className={`w-full ${
             isSubmit ? "flex" : "hidden"
