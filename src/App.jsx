@@ -1,7 +1,12 @@
+import RatingCard from "./components/RatingCard"
+
+
 function App() {
   return (
     <>
-      <h1 className="text-body">HomePage</h1>
+      <main className="w-full h-full bg-cover bg-black flex justify-center items-center py-75">
+          <RatingCard />
+      </main>
     </>
   )
 }
